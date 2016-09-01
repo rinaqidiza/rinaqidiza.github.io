@@ -6,7 +6,7 @@
 
 body {
     font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
-    background-color: olivedrab;
+    background-color: aquamarine;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -39,7 +39,6 @@ hr {
 .brand,
 .address-bar {
     display: none;
-    font-size: 30px;
 }
 
 .navbar-brand {
@@ -53,9 +52,11 @@ hr {
     font-weight: 400;
     letter-spacing: 3px;
 }
+
 .img-full {
     min-width: 100%;
 }
+
 .brand-before,
 .brand-name {
     text-transform: capitalize;
